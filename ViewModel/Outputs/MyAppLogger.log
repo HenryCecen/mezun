@@ -1,0 +1,366 @@
+2024-05-19 19:24:58,431 - MyAppLogger - INFO - The interface is working
+2024-05-19 19:52:47,779 - MyAppLogger - INFO - The interface is working
+2024-05-19 19:54:53,326 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-19 19:56:07,669 - MyAppLogger - INFO - The interface is working
+2024-05-19 19:58:04,518 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-19 20:08:53,479 - MyAppLogger - INFO - The interface is working
+2024-05-19 20:10:42,806 - MyAppLogger - INFO - Camera is working!
+2024-05-19 20:10:42,806 - MyAppLogger - INFO - Camera is working!
+2024-05-19 20:10:53,346 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-19 20:10:53,346 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-19 20:10:54,625 - MyAppLogger - INFO - Google Speech Recognition could not understand audio
+2024-05-19 20:10:54,625 - MyAppLogger - INFO - Google Speech Recognition could not understand audio
+2024-05-19 20:10:54,625 - MyAppLogger - INFO - Google Speech Recognition could not understand audio
+2024-05-19 21:29:17,377 - MyAppLogger - INFO - The interface is working
+2024-05-19 21:29:17,378 - MyAppLogger - INFO - selambaba
+2024-05-26 14:22:24,194 - MyAppLogger - INFO - It showed that User need to select role type.
+2024-05-26 14:22:24,203 - MyAppLogger - INFO - User not found.
+2024-05-26 14:26:26,952 - MyAppLogger - INFO - It showed that User need to select role type.
+2024-05-26 14:26:26,957 - MyAppLogger - INFO - User not found.
+2024-05-26 14:27:44,876 - MyAppLogger - INFO - It showed that User need to select role type.
+2024-05-26 14:27:47,162 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-26 14:28:52,286 - MyAppLogger - INFO - It showed that User need to select role type.
+2024-05-26 14:28:53,837 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-26 14:31:41,938 - MyAppLogger - INFO - User not found.
+2024-05-26 14:31:45,497 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-26 14:40:07,635 - MyAppLogger - INFO - Connected to MongoDB.
+2024-05-27 20:07:17,095 - MyAppLogger - INFO - Connected to MongoDB.
+2024-05-27 20:07:44,028 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-27 20:07:44,028 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-27 20:09:33,810 - MyAppLogger - INFO - Connected to MongoDB.
+2024-05-27 20:10:51,952 - MyAppLogger - INFO - User not found.
+2024-05-27 20:10:51,952 - MyAppLogger - INFO - User not found.
+2024-05-27 20:11:06,483 - MyAppLogger - INFO - It showed that User need to select role type.
+2024-05-27 20:11:06,483 - MyAppLogger - INFO - It showed that User need to select role type.
+2024-05-27 20:13:41,865 - MyAppLogger - INFO - Connected to MongoDB.
+2024-05-27 20:13:48,703 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-27 20:13:48,703 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-27 22:32:48,854 - MyAppLogger - INFO - Connected to MongoDB.
+2024-05-27 22:33:04,625 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-27 22:33:04,625 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-27 22:33:06,149 - MyAppLogger - INFO - The interface is working
+2024-05-27 22:33:06,149 - MyAppLogger - INFO - The interface is working
+2024-05-27 22:33:06,149 - MyAppLogger - INFO - The interface is working
+2024-05-27 22:34:44,556 - MyAppLogger - INFO - Camera is working!
+2024-05-27 22:34:44,556 - MyAppLogger - INFO - Camera is working!
+2024-05-27 22:34:44,556 - MyAppLogger - INFO - Camera is working!
+2024-05-27 22:34:44,556 - MyAppLogger - INFO - Camera is working!
+2024-05-27 22:35:15,411 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-27 22:35:15,411 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-27 22:35:15,411 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-27 22:35:15,411 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-27 22:35:41,913 - MyAppLogger - INFO - Connected to MongoDB.
+2024-05-27 22:35:51,957 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-27 22:35:51,957 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-27 22:35:53,377 - MyAppLogger - INFO - The interface is working
+2024-05-27 22:35:53,377 - MyAppLogger - INFO - The interface is working
+2024-05-27 22:35:53,377 - MyAppLogger - INFO - The interface is working
+2024-05-27 22:37:37,341 - MyAppLogger - INFO - Camera is working!
+2024-05-27 22:37:37,341 - MyAppLogger - INFO - Camera is working!
+2024-05-27 22:37:37,341 - MyAppLogger - INFO - Camera is working!
+2024-05-27 22:37:37,341 - MyAppLogger - INFO - Camera is working!
+2024-05-27 22:39:31,446 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-27 22:39:31,446 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-27 22:39:31,446 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-27 22:39:31,446 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-27 22:40:40,959 - MyAppLogger - INFO - Connected to MongoDB.
+2024-05-27 22:40:47,227 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-27 22:40:47,227 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-27 22:40:48,374 - MyAppLogger - INFO - The interface is working
+2024-05-27 22:40:48,374 - MyAppLogger - INFO - The interface is working
+2024-05-27 22:40:48,374 - MyAppLogger - INFO - The interface is working
+2024-05-27 22:42:30,726 - MyAppLogger - INFO - Camera is working!
+2024-05-27 22:42:30,726 - MyAppLogger - INFO - Camera is working!
+2024-05-27 22:42:30,726 - MyAppLogger - INFO - Camera is working!
+2024-05-27 22:42:30,726 - MyAppLogger - INFO - Camera is working!
+2024-05-27 22:42:44,353 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-27 22:42:44,353 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-27 22:42:44,353 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-27 22:42:44,353 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-28 00:07:47,765 - MyAppLogger - INFO - HOST IP: 192.168.1.33
+2024-05-28 00:07:47,765 - MyAppLogger - INFO - HOST IP: 192.168.1.33
+2024-05-28 00:07:47,765 - MyAppLogger - INFO - HOST IP: 192.168.1.33
+2024-05-28 00:07:47,765 - MyAppLogger - INFO - HOST IP: 192.168.1.33
+2024-05-28 00:07:47,765 - MyAppLogger - INFO - HOST IP: 192.168.1.33
+2024-05-28 00:07:47,765 - MyAppLogger - INFO - HOST IP: 192.168.1.33
+2024-05-28 00:10:57,776 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-28 00:10:57,776 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-28 00:10:57,776 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-28 00:10:57,776 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-28 00:10:57,776 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-28 00:10:57,776 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-30 16:10:59,278 - MyAppLogger - INFO - Connected to MongoDB.
+2024-05-30 16:11:08,452 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-30 16:11:08,452 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-30 16:11:09,645 - MyAppLogger - INFO - The interface is working
+2024-05-30 16:11:09,645 - MyAppLogger - INFO - The interface is working
+2024-05-30 16:11:09,645 - MyAppLogger - INFO - The interface is working
+2024-05-30 16:12:18,299 - MyAppLogger - INFO - Camera is working!
+2024-05-30 16:12:18,299 - MyAppLogger - INFO - Camera is working!
+2024-05-30 16:12:18,299 - MyAppLogger - INFO - Camera is working!
+2024-05-30 16:12:18,299 - MyAppLogger - INFO - Camera is working!
+2024-05-30 16:12:29,677 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-30 16:12:29,677 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-30 16:12:29,677 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-30 16:12:29,677 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-30 16:14:18,862 - MyAppLogger - INFO - Connected to MongoDB.
+2024-05-30 16:14:25,875 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-30 16:14:25,875 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-30 16:14:26,958 - MyAppLogger - INFO - The interface is working
+2024-05-30 16:14:26,958 - MyAppLogger - INFO - The interface is working
+2024-05-30 16:14:26,958 - MyAppLogger - INFO - The interface is working
+2024-05-30 16:15:36,073 - MyAppLogger - INFO - Camera is working!
+2024-05-30 16:15:36,073 - MyAppLogger - INFO - Camera is working!
+2024-05-30 16:15:36,073 - MyAppLogger - INFO - Camera is working!
+2024-05-30 16:15:36,073 - MyAppLogger - INFO - Camera is working!
+2024-05-30 16:15:44,981 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-30 16:15:44,981 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-30 16:15:44,981 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-30 16:15:44,981 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-30 16:16:33,283 - MyAppLogger - INFO - Connected to MongoDB.
+2024-05-30 16:16:40,130 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-30 16:16:40,130 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-05-30 16:16:41,167 - MyAppLogger - INFO - The interface is working
+2024-05-30 16:16:41,167 - MyAppLogger - INFO - The interface is working
+2024-05-30 16:16:41,167 - MyAppLogger - INFO - The interface is working
+2024-05-30 16:17:51,853 - MyAppLogger - INFO - Camera is working!
+2024-05-30 16:17:51,853 - MyAppLogger - INFO - Camera is working!
+2024-05-30 16:17:51,853 - MyAppLogger - INFO - Camera is working!
+2024-05-30 16:17:51,853 - MyAppLogger - INFO - Camera is working!
+2024-05-30 16:18:01,104 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-30 16:18:01,104 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-30 16:18:01,104 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-30 16:18:01,104 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-05-30 16:18:07,442 - MyAppLogger - INFO - Video and audio were merged!
+2024-05-30 16:18:07,442 - MyAppLogger - INFO - Video and audio were merged!
+2024-05-30 16:18:07,442 - MyAppLogger - INFO - Video and audio were merged!
+2024-05-30 16:18:07,442 - MyAppLogger - INFO - Video and audio were merged!
+2024-05-30 16:18:07,442 - MyAppLogger - INFO - Video and audio were merged!
+2024-05-30 16:18:07,442 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 15:20:36,765 - MyAppLogger - INFO - Connected to MongoDB.
+2024-06-02 15:20:47,261 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 15:20:47,261 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 15:20:48,505 - MyAppLogger - INFO - The interface is working
+2024-06-02 15:20:48,505 - MyAppLogger - INFO - The interface is working
+2024-06-02 15:20:48,505 - MyAppLogger - INFO - The interface is working
+2024-06-02 15:22:29,351 - MyAppLogger - INFO - Camera is working!
+2024-06-02 15:22:29,351 - MyAppLogger - INFO - Camera is working!
+2024-06-02 15:22:29,351 - MyAppLogger - INFO - Camera is working!
+2024-06-02 15:22:29,351 - MyAppLogger - INFO - Camera is working!
+2024-06-02 15:23:36,457 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 15:23:36,457 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 15:23:36,457 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 15:23:36,457 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 15:23:50,618 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 15:23:50,618 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 15:23:50,618 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 15:23:50,618 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 15:23:50,618 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 15:23:50,618 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 15:32:21,174 - MyAppLogger - INFO - Connected to MongoDB.
+2024-06-02 15:32:28,218 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 15:32:28,218 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 15:32:29,461 - MyAppLogger - INFO - The interface is working
+2024-06-02 15:32:29,461 - MyAppLogger - INFO - The interface is working
+2024-06-02 15:32:29,461 - MyAppLogger - INFO - The interface is working
+2024-06-02 15:34:07,565 - MyAppLogger - INFO - Camera is working!
+2024-06-02 15:34:07,565 - MyAppLogger - INFO - Camera is working!
+2024-06-02 15:34:07,565 - MyAppLogger - INFO - Camera is working!
+2024-06-02 15:34:07,565 - MyAppLogger - INFO - Camera is working!
+2024-06-02 15:34:27,976 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 15:34:27,976 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 15:34:27,976 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 15:34:27,976 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 15:34:36,221 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 15:34:36,221 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 15:34:36,221 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 15:34:36,221 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 15:34:36,221 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 15:34:36,221 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 16:03:26,490 - MyAppLogger - INFO - Connected to MongoDB.
+2024-06-02 16:03:33,729 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 16:03:33,729 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 16:03:36,724 - MyAppLogger - INFO - The interface is working
+2024-06-02 16:03:36,724 - MyAppLogger - INFO - The interface is working
+2024-06-02 16:03:36,724 - MyAppLogger - INFO - The interface is working
+2024-06-02 16:04:58,987 - MyAppLogger - INFO - Camera is working!
+2024-06-02 16:04:58,987 - MyAppLogger - INFO - Camera is working!
+2024-06-02 16:04:58,987 - MyAppLogger - INFO - Camera is working!
+2024-06-02 16:04:58,987 - MyAppLogger - INFO - Camera is working!
+2024-06-02 16:05:33,142 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 16:05:33,142 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 16:05:33,142 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 16:05:33,142 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 16:05:42,220 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 16:05:42,220 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 16:05:42,220 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 16:05:42,220 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 16:05:42,220 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 16:05:42,220 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:00:18,894 - MyAppLogger - INFO - Connected to MongoDB.
+2024-06-02 17:00:29,039 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:00:29,039 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:00:38,549 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:00:38,549 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:00:38,549 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:01:47,863 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:01:47,863 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:01:47,863 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:01:47,863 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:01:56,563 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:01:56,563 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:01:56,563 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:01:56,563 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:01:58,730 - MyAppLogger - INFO - Google Speech Recognition could not understand audio
+2024-06-02 17:01:58,730 - MyAppLogger - INFO - Google Speech Recognition could not understand audio
+2024-06-02 17:01:58,730 - MyAppLogger - INFO - Google Speech Recognition could not understand audio
+2024-06-02 17:01:58,730 - MyAppLogger - INFO - Google Speech Recognition could not understand audio
+2024-06-02 17:01:58,730 - MyAppLogger - INFO - Google Speech Recognition could not understand audio
+2024-06-02 17:02:03,202 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:02:03,202 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:02:03,202 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:02:03,202 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:02:03,202 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:02:03,202 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:03:48,064 - MyAppLogger - INFO - Connected to MongoDB.
+2024-06-02 17:08:21,707 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:08:21,707 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:21:31,598 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:21:31,598 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:21:31,598 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:34:34,459 - MyAppLogger - INFO - Connected to MongoDB.
+2024-06-02 17:34:48,838 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:34:48,838 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:37:34,055 - MyAppLogger - INFO - Connected to MongoDB.
+2024-06-02 17:37:53,611 - MyAppLogger - INFO - Connected to MongoDB.
+2024-06-02 17:38:05,457 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:38:05,457 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:38:19,905 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:38:19,905 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:38:19,905 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:39:30,335 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:39:30,335 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:39:30,335 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:39:30,335 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:40:11,083 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:40:11,083 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:40:11,083 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:40:11,083 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:40:17,931 - MyAppLogger - INFO - Google Speech Recognition could not understand audio
+2024-06-02 17:40:17,931 - MyAppLogger - INFO - Google Speech Recognition could not understand audio
+2024-06-02 17:40:17,931 - MyAppLogger - INFO - Google Speech Recognition could not understand audio
+2024-06-02 17:40:17,931 - MyAppLogger - INFO - Google Speech Recognition could not understand audio
+2024-06-02 17:40:17,931 - MyAppLogger - INFO - Google Speech Recognition could not understand audio
+2024-06-02 17:40:20,837 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:40:20,837 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:40:20,837 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:40:20,837 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:40:20,837 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:40:20,837 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:45:07,034 - MyAppLogger - INFO - Connected to MongoDB.
+2024-06-02 17:45:23,746 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:45:23,746 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:45:29,733 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:45:29,733 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:45:29,733 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:46:38,788 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:46:38,788 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:46:38,788 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:46:38,788 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:47:36,738 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:47:36,738 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:47:36,738 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:47:36,738 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:47:47,999 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:47:47,999 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:47:47,999 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:47:47,999 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:47:47,999 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:47:47,999 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:49:41,664 - MyAppLogger - INFO - Connected to MongoDB.
+2024-06-02 17:49:48,582 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:49:48,582 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:49:49,466 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:49:49,466 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:49:49,466 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:50:59,841 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:50:59,841 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:50:59,841 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:50:59,841 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:51:16,321 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:51:16,321 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:51:16,321 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:51:16,321 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:51:23,395 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:51:23,395 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:51:23,395 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:51:23,395 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:51:23,395 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:51:23,395 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:54:42,343 - MyAppLogger - INFO - Connected to MongoDB.
+2024-06-02 17:54:49,699 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:54:49,699 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 17:54:51,127 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:54:51,127 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:54:51,127 - MyAppLogger - INFO - The interface is working
+2024-06-02 17:56:25,484 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:56:25,484 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:56:25,484 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:56:25,484 - MyAppLogger - INFO - Camera is working!
+2024-06-02 17:56:55,514 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:56:55,514 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:56:55,514 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:56:55,514 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 17:57:05,347 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:57:05,347 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:57:05,347 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:57:05,347 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:57:05,347 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 17:57:05,347 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 18:01:39,741 - MyAppLogger - INFO - Connected to MongoDB.
+2024-06-02 18:01:54,215 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 18:01:54,215 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 18:01:55,904 - MyAppLogger - INFO - The interface is working
+2024-06-02 18:01:55,904 - MyAppLogger - INFO - The interface is working
+2024-06-02 18:01:55,904 - MyAppLogger - INFO - The interface is working
+2024-06-02 18:03:25,651 - MyAppLogger - INFO - Camera is working!
+2024-06-02 18:03:25,651 - MyAppLogger - INFO - Camera is working!
+2024-06-02 18:03:25,651 - MyAppLogger - INFO - Camera is working!
+2024-06-02 18:03:25,651 - MyAppLogger - INFO - Camera is working!
+2024-06-02 18:03:44,745 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 18:03:44,745 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 18:03:44,745 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 18:03:44,745 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 18:03:52,825 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 18:03:52,825 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 18:03:52,825 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 18:03:52,825 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 18:03:52,825 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 18:03:52,825 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 18:05:43,698 - MyAppLogger - INFO - Connected to MongoDB.
+2024-06-02 18:06:02,758 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 18:06:02,758 - MyAppLogger - INFO - Username and password are correct. Main window is opened!
+2024-06-02 18:06:06,762 - MyAppLogger - INFO - The interface is working
+2024-06-02 18:06:06,762 - MyAppLogger - INFO - The interface is working
+2024-06-02 18:06:06,762 - MyAppLogger - INFO - The interface is working
+2024-06-02 18:07:45,804 - MyAppLogger - INFO - Camera is working!
+2024-06-02 18:07:45,804 - MyAppLogger - INFO - Camera is working!
+2024-06-02 18:07:45,804 - MyAppLogger - INFO - Camera is working!
+2024-06-02 18:07:45,804 - MyAppLogger - INFO - Camera is working!
+2024-06-02 18:08:41,329 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 18:08:41,329 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 18:08:41,329 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 18:08:41,329 - MyAppLogger - INFO - Cam and microphone are clossed
+2024-06-02 18:08:53,915 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 18:08:53,915 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 18:08:53,915 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 18:08:53,915 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 18:08:53,915 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 18:08:53,915 - MyAppLogger - INFO - Video and audio were merged!
+2024-06-02 18:13:38,963 - MyAppLogger - INFO - HOST IP: 192.168.1.33
+2024-06-02 18:13:38,963 - MyAppLogger - INFO - HOST IP: 192.168.1.33
+2024-06-02 18:13:38,963 - MyAppLogger - INFO - HOST IP: 192.168.1.33
+2024-06-02 18:13:38,963 - MyAppLogger - INFO - HOST IP: 192.168.1.33
+2024-06-02 18:13:38,963 - MyAppLogger - INFO - HOST IP: 192.168.1.33
+2024-06-02 18:13:38,963 - MyAppLogger - INFO - HOST IP: 192.168.1.33
+2024-06-02 18:13:38,963 - MyAppLogger - INFO - HOST IP: 192.168.1.33

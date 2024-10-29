@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/61861229/how-to-mesure-the-distance-between-2-points-in-the-facial-landmarks-from-dlib-68
+https://www.geeksforgeeks.org/yawn-detection-using-opencv-and-dlib/
+https://www.youtube.com/watch?v=r0iJKmY3n_g
+https://github.com/samwestby/OpenCV-Python-Tutorial/tree/main
+
+https://github.com/deepconvolution/LipNet/tree/master
+https://github.com/nicknochnack/LipNet/blob/main/app/utils.py#L27
+https://github.com/sekilab/RoadDamageDetector/blob/master/RoadDamageDatasetTutorial.ipynb
+https://github.com/augmentedstartups/Face-Recogntion-PyQt/blob/master/Face_Detection_PyQt_base/out_window.py
+https://github.com/afaq-ahmad/Python-Application-for-Camera-OCR-then-text-to-speech/tree/master
